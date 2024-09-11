@@ -1,0 +1,10 @@
+Introduction à UML et Design Pattern
+
+épreuve sur machine de 2h (%40)
+
+--> mots croisés les 3 premières tme
+
+robuste et extensible
+
+encapsulation, abstraction, réutilisation, polymorphisme
+
