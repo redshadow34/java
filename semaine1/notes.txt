@@ -8,3 +8,21 @@ robuste et extensible
 
 encapsulation, abstraction, réutilisation, polymorphisme
 
+slide29:
+
+Diagramme de classe UML
+
+
+1) nom de la classe
+2) liste des attributs
+3) liste des méthodes et constructeurs
+
+Final indique constant (immuable)
+    cannot be initialisé
+    cannot be modified
+
+Static : partagé par toutes les instances de la classe
+    Classe.attribut
+    Classe.méthode
+
+en UML les attributs et méthodes static sont soulignés
